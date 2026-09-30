@@ -4,13 +4,8 @@ A GenAI-powered web application using FastAPI, Google Gemini 1.5, and Jinja2 to 
 
 ## 🚀 Live Demo & Links
 - **Live Hosted Application:** https://pocketsmart-ai-ay9c.onrender.com
-- **Project Demonstration Video:**(https://drive.google.com/file/d/1pX-LwD_HoHozeppNYZJs81WQ-FvHT7YU/view?usp=drivesdk)**
+- **Project Demonstration Video:**(https://drive.google.com/file/d/1N6ArYA2tcTaXxF3oYHdT8a7fr89mcBPr/view?usp=drivesdk)**
 
-## 👥 Team Members
-- **Hisham Aatif Afsar** (Team Lead)
-- **Maithreyan S**
-- **Gowdham Ramkrishnan**
-- **Hariprasad V**
 
 ## 📁 SmartBridge Phase-Wise Structure
 - **Phase 1:** [Brainstorming & Ideation](Project_Phases/Phase_1_Brainstorming_and_Ideation.md)
